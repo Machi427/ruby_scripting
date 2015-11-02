@@ -1,0 +1,25 @@
+Return-Path: <ta01002@e.koeki-u.ac.jp>
+Delivered-To: yuuji@itl.koeki-u.ac.jp
+Received: (qmail 12673 invoked by uid 1010); 26 Apr 2014 22:52:17 -0000
+Received: (qmail 12659 invoked from network); 26 Apr 2014 22:52:17 -0000
+Received: from broy.e.koeki-u.ac.jp (HELO localhost) (172.17.54.112)
+  by pan.e.koeki-u.ac.jp with SMTP; 26 Apr 2014 22:52:17 -0000
+Received: from broy.e.koeki-u.ac.jp (HELO localhost) (172.17.54.112)
+  by pan.e.koeki-u.ac.jp (antibadmail 1.38) with SMTP; Apr 27 07:52:17 JST 2014
+Date: Mon, 27 Apr 2014 07:52:10 +0900 (JST)
+Message-Id: <20140427.075210.193698131.ta01002@e.koeki-u.ac.jp>
+To: yuuji@e.koeki-u.ac.jp
+Subject: Nice to meet you
+From: HIROSE Yuuji <ta01002@e.koeki-u.ac.jp>
+Mime-Version: 1.0
+Content-Type: Text/Plain; charset=iso-2022-jp
+Content-Transfer-Encoding: 7bit
+Status:   
+
+はじめまして、こんにちは、
+では、さようなら。
+
+おしまい。
+
+-- 
+公益太郎
